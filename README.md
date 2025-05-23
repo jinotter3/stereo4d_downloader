@@ -68,7 +68,7 @@ This downloader only covers **Step 1**. ([GitHub][2])
 | Symptom                                  | Fix                                                                          |
 | ---------------------------------------- | ---------------------------------------------------------------------------- |
 | `Video unavailable (removed or private)` | Unfortunately the clip is gone – remove the URL or look for mirrors.         |
-| `Sign in to confirm you’re not a bot`    | Pass `--cookies-from-browser <browser>` or `--cookies-file <path>`.          |
+| `Sign in to confirm you’re not a bot`    | Pass `--cookies-from-browser <browser>` or `--cookies-file <path>`. Or, you can watch youtube with your browser manually on a local machine.          |
 | Only 1080p files appear in `-F` list     | The video was uploaded below 1440 p; the Stereo4D annotations may not align. |
 
 ---
